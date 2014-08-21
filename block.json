@@ -1,0 +1,14 @@
+{
+    "name": "article-short",
+    "description": "",
+    "template": {
+        "@type": "Thing"
+    },
+    "options": {
+        "linkText": "Read more"
+    },
+
+    "dependencies": {
+        "article-single": "0.1.0"
+    }
+}
