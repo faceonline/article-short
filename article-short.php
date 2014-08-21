@@ -10,7 +10,6 @@ $strToArr = function($arrOrStr) {
     }
 };
 
-
 block('article-single', $block->document);
 if (!empty($block->document['url'])) {
     $i = 0;
